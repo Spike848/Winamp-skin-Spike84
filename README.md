@@ -1,6 +1,6 @@
 # Winamp skin "Spike84"
 
-La mia skin personale per Winamp. Mi chiamo Spike84.
+La mia skin personale per Winamp.
 
 ![Winamp skin Spike84](screenshot.png)
 
